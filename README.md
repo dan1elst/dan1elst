@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there folks 👋
 
+My name is Daniel - hope you are doing well 🤝
+
+currently working on projects regarding BI and Data Analytics 📈
+
+when I'm not in front of a screen you can find me in the kitchen 👨‍🍳
 <!--
 **dan1elst/dan1elst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
